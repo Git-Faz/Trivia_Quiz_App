@@ -1,10 +1,10 @@
-# 🧠 Trivia Quiz App
+# Trivia Quiz App
 
 An interactive quiz application built using the MERN-like stack (React, Express, MySQL) with a clean Tailwind CSS UI.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/Frontend-React-%2361DAFB?logo=react&logoColor=white)
